@@ -6,3 +6,4 @@ Pro E
 Ansys
 Snow flake
 shell scripting
+Terraform
